@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_notes": "V1.0.1 — ST auto-routing by MAC, periodic update check.",
+    "version": "1.0.2",
+    "release_notes": "V1.0.2 — Critical routing bug fix, unrouted alerts, changelog.",
     "download_url": "https://github.com/liuchanghao511-source/WCKPS-Releases/releases/latest/download/WCKPS_Pro.zip"
 }
